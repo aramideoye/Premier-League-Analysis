@@ -37,4 +37,11 @@ Welcome to my Github repository for Premier League Performance Analysis. I used 
 
 # Skills Exhibited
 
--  Data Collection and Transformation
+-  Data Collection, Integration, cleaning and Transformation
+-  Data Analysis
+-  Microsoft Power BI to create an interactive and appealing dashboard
+-  Data Visualization and Storytelling
+-  Comparative Analysis
+-  Github to manage and share the analysis visuals
+-  Documentation and Communication
+  
