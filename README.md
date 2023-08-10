@@ -6,13 +6,21 @@ Welcome to my Github repository for Premier League Performance Analysis. I use P
 Findings
 
 Match Outcome
+
   What is the total points?
+  
   What is the total win?
+  
   What is the total loses?
 
 Match Analysis
+
   Team with highest goals
+  
   Team with lowest goals
+  
   Points by team
+  
   Win by team
+  
   Draw by team
