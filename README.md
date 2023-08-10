@@ -5,7 +5,7 @@ Welcome to my Github repository for Premier League Performance Analysis. I used 
 
 ![image](https://github.com/aramideoye/Premier-League-Analysis/assets/136766114/05f15173-f3fc-4d47-9f93-418348ac7cf8)
 
-# Findings
+# Primary Insights
 
 # Match Outcome
 
@@ -27,7 +27,7 @@ Welcome to my Github repository for Premier League Performance Analysis. I used 
   
   Draw by team
 
-  # Insight and Observation
+  # Conclusion
 
   - Manchester City achieved a remarkable 89 points, which is 256.00% superiority over Southampton, who secured the lowest score of 25 points.
   - Manchester City's contribution amounted to 8.45% of the total points earned.
