@@ -7,15 +7,13 @@ Welcome to my Github repository for Premier League Performance Analysis. I used 
 
 # Primary Insights
 
-# Match Outcome
+# Match Analysis and Outcome
 
   What is the total points?
   
   What is the total win?
   
   What is the total loses?
-
-# Match Analysis
 
   Team with highest goals
   
