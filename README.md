@@ -7,7 +7,7 @@ Welcome to my Github repository for Premier League Performance Analysis. I used 
 
 # Primary Insights
 
-# Match Analysis and Outcome
+# Match Analysis and Outcomes
 
   What is the total points?
   
@@ -25,7 +25,7 @@ Welcome to my Github repository for Premier League Performance Analysis. I used 
   
   Draw by team
 
-  # Conclusion
+  # Discoveries
 
   - Manchester City achieved a remarkable 89 points, which is 256.00% superiority over Southampton, who secured the lowest score of 25 points.
   - Manchester City's contribution amounted to 8.45% of the total points earned.
@@ -42,4 +42,7 @@ Welcome to my Github repository for Premier League Performance Analysis. I used 
 -  Comparative Analysis
 -  Github to manage and share the analysis visuals
 -  Documentation and Communication
-  
+
+# Conclusion
+
+I have been able to harness the power of Power BI to study and analyze Premier League results and provided an unparalleled perspective on the dynamics of the competition. Through the lens of data-driven insights, I was able to delve deep into the heart of match outcomes, player performances, and team strategies. 
