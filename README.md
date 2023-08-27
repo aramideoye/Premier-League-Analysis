@@ -3,6 +3,8 @@
 
 Welcome to my Github repository for Premier League Performance Analysis. I used Power BI to showcase a comprehensive collection and transformation of data and creating visualizations which give details of the premier league, one of the most exciting and competitive football leagues in the world.
 
+Disclaimer : All Datasets is from the Preimer League online scores dataset to demonstrate capabilities of PowerBI
+
 ![image](https://github.com/aramideoye/Premier-League-Analysis/assets/136766114/05f15173-f3fc-4d47-9f93-418348ac7cf8)
 
 # Primary Insights
